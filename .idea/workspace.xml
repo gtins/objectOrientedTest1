@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19b34d21-a0e1-41b6-be0f-1b21da8c1794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Retangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681508792727</updated>
-      <workItem from="1681508793919" duration="1638000" />
+      <workItem from="1681508793919" duration="3009000" />
     </task>
     <task id="LOCAL-00001" summary="Teste">
       <created>1681508865800</created>
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681508865800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Teste">
+      <created>1681511596251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681511596252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
